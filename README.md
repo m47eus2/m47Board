@@ -1,6 +1,18 @@
 # m47Board
 
-Custom PCB designed for STM32C031C6 microcontroller with external oscillators, SWD programming interface, and basic peripherals.
+## Custom PCB designed for STM32 Dev Board
+- STM32C031C6 MCU
+- HSE and LSE external oscillators
+- SWD programming interface
+- Goldpin headers for all GPIO pins
+- User button and user LED
+- TLV1117LV33 5V to 3.3V 1A LDO
+- RST button
+
+## PCB render
 
 ![PCBrender](/docs/m47BoardV1render.png)
+
+## Schematic
+
 ![Schematic](/docs/m47BoardV0.svg)
