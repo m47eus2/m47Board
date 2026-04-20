@@ -1,7 +1,7 @@
 # m47Board
 
 ## Custom PCB designed for STM32 Dev Board
-- STM32C031C6 MCU
+- STM32C031C6T6 MCU
 - HSE and LSE external oscillators
 - SWD programming interface
 - Goldpin headers for all GPIO pins
