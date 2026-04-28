@@ -1,4 +1,4 @@
 .history
 *.zip
 *.kicad_prl
-*.kicad_pro.lck
+*.lck

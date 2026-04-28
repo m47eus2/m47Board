@@ -5,7 +5,7 @@
 	(uuid "87b71273-302c-420e-92f3-2349f38dea14")
 	(paper "A4")
 	(title_block
-		(title "m47BoardV0")
+		(title "m47Board-C0")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"
@@ -6639,7 +6639,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 204.47 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8878,7 +8878,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 74.93 168.9099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9462,7 +9462,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 43.18 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
